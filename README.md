@@ -1,15 +1,12 @@
-<p>原作者项目地址：<a href="https://github.com/SeanWong17/Future-Style-Periodic-Table" target="_blank">https://github.com/SeanWong17/Future-Style-Periodic-Table</a></p>
+<p align="left">原作者项目地址：<a href="https://github.com/SeanWong17/Future-Style-Periodic-Table" target="_blank">https://github.com/SeanWong17/Future-Style-Periodic-Table</a></p>
+<h3 align="left"><a href="https://yuansu.937788.xyz/">点击进入：沉浸式体验 (Live Demo)</a></h3>
 <div align="center">
   <h1>️ Future Style Periodic Table</h1>
   <h3>交互式未来风格元素周期表 · 沉浸式化学科普</h3>
-  
   <p>
     118 种元素，宇宙的 5%，尽在指尖绽放。
   </p>
-
-  <h3>
-     <a href="https://yuansu.937788.xyz/">点击进入：沉浸式体验 (Live Demo)</a> 
-  </h3>
+</div>
 
 ---
 
@@ -119,14 +116,3 @@ Future-Style-Periodic-Table/
 
 -  你可以自由地使用、复制、修改和分发本项目。
 -  请在衍生作品中保留原作者的版权声明。
-
----
-
-##  Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=SeanWong17/Future-Style-Periodic-Table&type=Date)](https://star-history.com/#SeanWong17/Future-Style-Periodic-Table&Date)
-
----
-<div align="center">
-  <sub>Designed with ️ by Sean Wong</sub>
-</div>
