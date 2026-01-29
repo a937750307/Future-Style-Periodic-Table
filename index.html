@@ -1,3 +1,4 @@
+<!-- 本网站修改自原作者项目：https://github.com/SeanWong17/Future-Style-Periodic-Table -->
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -10,7 +11,7 @@
 
     <div class="bg-animation"></div>
 
-    <div class="rotate-hint">💡 横屏查看效果更佳</div>
+    <div class="rotate-hint"> 横屏查看效果更佳</div>
 
     <div class="control-panel">
         <div class="title-box">
@@ -89,5 +90,56 @@
     <script src="data.js"></script>
     <!-- 引入主逻辑文件 -->
     <script src="main.js"></script>
+
+    <footer class="footer-beian">
+        <div class="footer-main">本站内容仅供学习和交流，非商业用途</div>
+        <div class="footer-beian-row">
+            <a href="https://beian.miit.gov.cn/" target="_blank" class="footer-link">浙ICP备2025187466号</a>
+            <span class="footer-sep">|</span>
+            <a href="https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33030402001483" target="_blank" class="footer-link">浙公网安备33030402001483号</a>
+        </div>
+    </footer>
+    <style>
+    .footer-beian {
+        width: 100%;
+        text-align: center;
+        margin: 36px 0 16px 0;
+        line-height: 1.8;
+    }
+    .footer-main {
+        font-size: 15px;
+        color: #fbbf24;
+        font-weight: bold;
+        margin-bottom: 2px;
+    }
+    .footer-beian-row {
+        font-size: 13px;
+        color: #aaa;
+    }
+    .footer-link {
+        color: #888;
+        margin: 0 4px;
+        text-decoration: none;
+    }
+    .footer-sep {
+        color: #888;
+        margin: 0 4px;
+    }
+    @media (max-width: 600px) {
+        .footer-beian-row {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 0;
+        }
+        .footer-link, .footer-sep {
+            margin: 0;
+            line-height: 1.7;
+        }
+        .footer-sep {
+            display: none;
+        }
+    }
+    </style>
 </body>
 </html>
